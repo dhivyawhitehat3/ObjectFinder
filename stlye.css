@@ -1,0 +1,38 @@
+#header
+{
+font-size: 40px;
+width: 100%;
+margin: 0px;
+box-shadow: 5px 5px 50px grey;
+height: 90px;
+}
+#header:hover
+{
+    background-color: lightgreen;
+}
+.status
+{
+font-size: 30px;
+
+}
+
+canvas
+{
+    margin-top: 100px;
+    box-shadow: 5px 5px 50px blue;
+}
+#footer
+{
+    width: 100%;
+    background-color: red;
+    color: black;
+    font-size: 30px;
+    bottom: 0px;
+    position:fixed;
+}
+.textbox
+{
+    height: 6.3%;
+    width: 40%;
+    font-size: 25px;
+}
